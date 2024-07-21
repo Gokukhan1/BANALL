@@ -32,7 +32,7 @@ filters.command("start")
 async def start_command(client, message: Message):
   await message.reply_photo(
                             photo = f"https://graph.org/file/d85cfa52eeaecb7cc68e3.jpg",
-                            caption = f"ʜᴇʏ, ᴛʜɪs ɪs ᴀ simple copy right protection bot this is protected your gc for a copy right.",
+                            caption = f"ʜᴇʏ, ᴛʜɪs ɪs ᴀ simple copy right protection bot this is protected your gc for a copy right.   Add in your group and give me full pawer.",
   reply_markup=InlineKeyboardMarkup(
             [
                 [
